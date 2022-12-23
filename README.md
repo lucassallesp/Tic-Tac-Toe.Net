@@ -1,7 +1,7 @@
 Tic tac toe game developed to be played by a manipulator robot controlled by an arduino embedded system.
 
-Game Programming Language: C#;
-Manipulator Robot Embedded System: C++/Arduino;
+Game Programming Language: C#.
+Manipulator Robot Embedded System: C++/Arduino.
 Framework: .NET;
 
 HOW TO RUN?
